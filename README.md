@@ -19,10 +19,10 @@ See `Dhikshanya_Project_Portfolio.pdf` for full project documentation.
 ![Overall Simulink Block Diagram](images/image.png)
 
 ### simulation of the work 
-![controller design](images/controllers.png)
+![controller design](images/Controllers.png)
 
 ### simulation of the work 
-![sliding mode controller](images/SMC.png)
+![sliding mode controller](images/smc.png)
 
 ## 💡 Project Summary
 
